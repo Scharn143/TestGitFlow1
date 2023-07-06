@@ -12,6 +12,8 @@ body{
 }
 
 #test{
-    color: white;
+
+    color: lightgreen;
     border: 8px solid blue;
+
 }
