@@ -13,4 +13,10 @@ body{
 
 #test{
     color: yellow;
+    border: solid 8px blue;
+}
+
+#test2{
+    color: green;
+    border: solid 4px white;
 }
