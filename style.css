@@ -1,0 +1,16 @@
+
+/* Hier ensteht das CSS Formula */
+
+/* CSS Reset*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: black;
+}
+
+#test{
+    color: white;
+}
