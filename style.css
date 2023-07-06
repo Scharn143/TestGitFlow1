@@ -13,4 +13,5 @@ body{
 
 #test{
     color: yellow;
+    border: solid 8px blue;
 }
